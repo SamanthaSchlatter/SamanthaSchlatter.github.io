@@ -1,18 +1,22 @@
  div {
     border: 2px solid black;
     padding: 10px;
+
  }
  body {
     background-color: rgb(182, 227, 255);
  }
  h1 {
     text-align: left;
-    color: black;
+    color: rgb(22, 155, 237);
     font-family: 'Architects-Daughter', cursive;
  }
  p {
-    text-align: center;
+    text-align: justify;
+    color: black;
+    font-family: 'Architects-Daughter', cursive;
     text-indent: 45px;
+    text-size-adjust: 100%;
  }
  a:link, a:visited {
     background-color: rgba(182, 227, 255);
@@ -21,7 +25,6 @@
     padding: 25px 50px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
   }
   a:hover, a:active {
     background-color: rgb(22, 155, 237);
