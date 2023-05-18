@@ -1,18 +1,20 @@
  div {
     position: fixed;
     bottom: 250px;
-    left: 360px;
+    left: 200px;
+    width: 500px;
+    height: auto;
  }
  body {
-    background-color: rgb(226, 226, 226);
+    background-color: rgb(240, 240, 240);
  }
  h1 {
     color: black;
     font-family: 'Yeseva One', cursive;
     position: fixed;
     top: 100px;
-    left: 50px;
-    font-size: 60px;
+    left: 80px;
+    font-size: 55px;
  }
  p {
     text-align: justify;
