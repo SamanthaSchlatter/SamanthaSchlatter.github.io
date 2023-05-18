@@ -1,9 +1,10 @@
  div {
-    text-align: left;
-    padding: 10px;
+    position: fixed;
+    bottom: 250px;
+    left: 360px;
  }
  body {
-    background-color: rgb(240, 230, 225);
+    background-color: rgb(226, 226, 226);
  }
  h1 {
     color: black;
@@ -23,14 +24,16 @@
  table {
     position: fixed;
     top: 20px;
-    right: 20px;
+    right: 30px;
  }
  a:link, a:visited {
+    color: black;
     text-align: center;
     display: inline-block;
     font-family: 'Yeseva One', cursive;
   }
   a:hover, a:active {
+    color: black;
     text-align: center;
     display: inline-block;
     text-decoration: underline black;
