@@ -1,8 +1,8 @@
  div {
     position: fixed;
     bottom: 250px;
-    left: 200px;
-    width: 500px;
+    left: 210px;
+    width: 525px;
     height: auto;
  }
  body {
@@ -12,7 +12,7 @@
     color: black;
     font-family: 'Yeseva One', cursive;
     position: fixed;
-    top: 100px;
+    top: 150px;
     left: 80px;
     font-size: 55px;
  }
@@ -22,6 +22,7 @@
     font-family: 'Yeseva One', cursive;
     text-indent: 45px;
     text-size-adjust: 100%;
+    font-size: 25px;
  }
  table {
     position: fixed;
@@ -33,6 +34,7 @@
     text-align: center;
     display: inline-block;
     font-family: 'Yeseva One', cursive;
+    text-decoration: none;
   }
   a:hover, a:active {
     color: black;
@@ -40,4 +42,9 @@
     display: inline-block;
     text-decoration: underline black;
     font-family: 'Yeseva One', cursive;
+  }
+  img {
+   position: fixed;
+   top: 100px;
+   right: 100px;
   }
