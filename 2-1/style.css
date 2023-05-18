@@ -1,6 +1,6 @@
  div {
     position: fixed;
-    bottom: 250px;
+    bottom: 150px;
     left: 210px;
     width: 525px;
     height: auto;
@@ -13,7 +13,7 @@
     font-family: 'Yeseva One', cursive;
     position: fixed;
     top: 150px;
-    left: 80px;
+    left: 90px;
     font-size: 55px;
  }
  p {
@@ -22,7 +22,7 @@
     font-family: 'Yeseva One', cursive;
     text-indent: 45px;
     text-size-adjust: 100%;
-    font-size: 25px;
+    font-size: 15px;
  }
  table {
     position: fixed;
