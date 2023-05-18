@@ -1,32 +1,38 @@
  div {
-    border: 2px solid black;
+    text-align: left;
     padding: 10px;
  }
  body {
-    background-color: white;
+    background-color: rgb(240, 230, 225);
  }
  h1 {
-    text-align: left;
-    color: rgb(22, 155, 237);
-    font-family: 'Architects-Daughter', cursive;
+    color: black;
+    font-family: 'Yeseva One', cursive;
+    position: fixed;
+    top: 100px;
+    left: 50px;
+    font-size: 60px;
  }
  p {
     text-align: justify;
     color: black;
-    font-family: 'Architects-Daughter', cursive;
+    font-family: 'Yeseva One', cursive;
     text-indent: 45px;
     text-size-adjust: 100%;
  }
+ table {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+ }
  a:link, a:visited {
-    background-color: rgba(198, 233, 255);
-    color: black;
-    border: 2px solid black;
-    padding: 30px 50px;
     text-align: center;
-    text-decoration: none;
     display: inline-block;
+    font-family: 'Yeseva One', cursive;
   }
   a:hover, a:active {
-    background-color: rgb(22, 155, 237);
-    color: white;
+    text-align: center;
+    display: inline-block;
+    text-decoration: underline black;
+    font-family: 'Yeseva One', cursive;
   }
