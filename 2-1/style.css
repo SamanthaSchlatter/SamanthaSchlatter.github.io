@@ -1,6 +1,6 @@
  div {
     position: fixed;
-    bottom: 200px;
+    bottom: 2450px;
     left: 210px;
     width: 525px;
     height: auto;
@@ -28,7 +28,7 @@
     position: fixed;
     top: 20px;
     right: 40px;
-    font-size: 20px;
+    font-size: 25px;
  }
  a:link, a:visited {
     color: black;
