@@ -5,6 +5,11 @@
     width: 550px;
     height: auto;
  }
+ .box{
+   float: left;
+  width: 33.33%;
+  padding: 50px;
+ }
  body {
     background-color: rgb(240, 240, 240);
  }
@@ -19,7 +24,7 @@
  h2 {
     color: black;
     font-family: 'Yeseva One', cursive;
-    font-size: 30px;
+    font-size: 40px;
     position: fixed;
     top: 75px;
     left: 100px;
