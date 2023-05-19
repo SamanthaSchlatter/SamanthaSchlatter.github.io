@@ -65,7 +65,7 @@
   p.div {
    position: fixed;
    bottom: 245px;
-   left: 210px;
+   right: 210px;
    width: 550px;
    height: auto;
   }
