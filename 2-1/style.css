@@ -2,7 +2,7 @@
     position: fixed;
     bottom: 245px;
     left: 210px;
-    width: 525px;
+    width: 550px;
     height: auto;
  }
  body {
@@ -20,6 +20,9 @@
     color: black;
     font-family: 'Yeseva One', cursive;
     font-size: 30px;
+    position: fixed;
+    top: 75px;
+    left: 100px;
  }
  h3 {
    color: black;
@@ -27,10 +30,9 @@
    font-size: 30px;
  }
  p {
-    text-align: justify;
+    text-align: left;
     color: black;
     font-family: 'Yeseva One', cursive;
-    text-indent: 45px;
     text-size-adjust: 100%;
     font-size: 15px;
  }
@@ -39,6 +41,7 @@
     top: 20px;
     right: 40px;
     font-size: 25px;
+    border-spacing: 25px;
  }
  a:link, a:visited {
     color: black;
@@ -58,4 +61,11 @@
    position: fixed;
    top: 100px;
    right: 100px;
+  }
+  p.div {
+   position: fixed;
+   bottom: 245px;
+   left: 210px;
+   width: 550px;
+   height: auto;
   }
