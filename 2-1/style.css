@@ -5,10 +5,12 @@
     width: 550px;
     height: auto;
  }
- .box{
-   float: left;
-  width: 33.33%;
-  padding: 50px;
+ .box {
+   position: fixed;
+   bottom: 245px;
+   right: 210px;
+   width: 550px;
+   height: auto;
  }
  body {
     background-color: rgb(240, 240, 240);
