@@ -5,15 +5,39 @@
        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
        <link href="https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap" rel="stylesheet">
        <link rel="Stylesheet" href="style.css">
+       <title>Contact Information</title>
    </head>
 
    <body>
    <h2>Contact Information</h2>
 
+   <div style="float:left;margin: 200px 25px auto 250px;">
+   <p><b>Phone Number: </b>(989)415-1350</p>
+   <p><b>Email: </b>samanthaschlatter@gmail.com</p><br>
+   <p>If you would like to leave a message, please fill out the form to the right and I'll get back to you as soon as I can.</p>
+   </div>
+
+   <div style="float:right;margin: 200px 250px auto 25px;">
+   <form  action="">
+    <label for="fname">First name:</label>
+    <input type="text" id="fname" name="fname" value=""><br><br>
+    <label for="lname">Last name:</label>
+    <input type="text" id="lname" name="lname" value=""><br><br>
+    
+    <label for="email">Email:</label>
+    <textarea id="email" name="email" rows="1" cols="40"></textarea><br><br>
+
+    <label for="message">Message:</label>
+    <textarea id="message" name="message" rows="20" cols="70"></textarea><br><br>
+
+    <input type="submit" value="Submit" style="font-family:'Yeseva One'">
+   </form>
+   </div>
+
    <table>
     <tr>
         <td><p><a href="index.html">About Me</a></p></td>
-        <td><p><a href="work.html">Work</a></p></td>
+        <td><p><a href="work.html">Work Experience</a></p></td>
         <td><p><a href="contactinfo.html">Contact Me</a></p></td>
     </tr>
 </table>
