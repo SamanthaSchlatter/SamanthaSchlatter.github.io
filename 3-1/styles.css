@@ -1,0 +1,1322 @@
+.desktop{
+                
+    position: relative;
+    width: 1440px;
+    height: 4205px;
+    
+    background: #FFFFFF;
+}
+
+
+
+
+
+
+
+.rectangletestimonials{
+    position: absolute;
+width: 420px;
+height: 747px;
+left: 980px;
+top: 99px;
+
+background: #031CFF;
+mix-blend-mode: multiply;
+}
+.imagetestimonials{
+    position: absolute;
+width: 1597px;
+height: 2395px;
+left: -44px;
+top: 2643px;
+
+background: linear-gradient(175.58deg, rgba(11, 14, 45, 0) 19.12%, rgba(11, 14, 45, 0.56) 71.28%), linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), url(image.png);
+}
+
+.pagination{
+    position: absolute;
+width: 374px;
+height: 15px;
+left: 996px;
+top: 2543px;
+}
+.elipse2-5{
+    position: absolute;
+width: 11px;
+height: 11px;
+left: 1255px;
+top: 2545px;
+
+background: #C4C4C4;
+opacity: 0.3;
+}
+.elipse2-4{
+    position: absolute;
+width: 11px;
+height: 11px;
+left: 1221px;
+top: 2545px;
+
+background: #C4C4C4;
+opacity: 0.3;
+}
+.elipse2-3{
+    position: absolute;
+width: 11px;
+height: 11px;
+left: 1187px;
+top: 2545px;
+
+background: #C4C4C4;
+opacity: 0.3;
+}
+.elipse2-2{
+    position: absolute;
+width: 11px;
+height: 11px;
+left: 1153px;
+top: 2545px;
+
+background: #031CFF;
+}
+.elipse2-1{
+    position: absolute;
+width: 11px;
+height: 11px;
+left: 1119px;
+top: 2545px;
+
+background: #C4C4C4;
+opacity: 0.3;
+}
+.elipse2{
+    position: absolute;
+width: 11px;
+height: 11px;
+left: 1085px;
+top: 2545px;
+
+background: #C4C4C4;
+opacity: 0.3;
+}
+.vectorleft{
+    position: absolute;
+width: 24px;
+height: 15px;
+right: 396px;
+top: 2543px;
+
+background: #9597A6;
+opacity: 0.2;
+border: 1px solid #021CFF;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.vectorright{
+    position: absolute;
+width: 24px;
+height: 15px;
+right: 70px;
+top: 2543px;
+
+background: #021CFF;
+border: 1px solid #021CFF;
+}
+
+.activeslide{
+    position: absolute;
+width: 680px;
+height: 443px;
+left: 246px;
+top: 2173px;
+}
+.group10{
+    position: absolute;
+width: 66px;
+height: 66px;
+left: 848px;
+top: 2535px;
+}
+.group9{
+    position: absolute;
+width: 29px;
+height: 30px;
+left: 869px;
+top: 2552px;
+}
+.line2{
+    position: absolute;
+width: 22.63px;
+height: 0px;
+left: 872px;
+top: 2576px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-45deg);
+}
+.sixteen{
+    position: absolute;
+width: 15px;
+height: 12px;
+left: 883px;
+top: 2570px;
+
+background: #FFFFFF;
+opacity: 0.4;
+}
+.one{
+    position: absolute;
+width: 5px;
+height: 12px;
+left: 869px;
+top: 2552px;
+
+background: #FFFFFF;
+}
+.elipse{
+    box-sizing: border-box;
+
+position: absolute;
+width: 66px;
+height: 66px;
+left: 848px;
+top: 2535px;
+
+border: 0.5px solid #FFFFFF;
+}
+.heartvector{
+    position: absolute;
+width: 27px;
+height: 23px;
+left: 275px;
+top: 2205px;
+
+background: #FFFFFF;
+opacity: 0.3;
+}
+.snowimage{
+    position: absolute;
+width: 680px;
+height: 443px;
+left: 246px;
+top: 2173px;
+
+background: url(fcdbf560745231.jpg);
+}
+
+.nothing{
+    position: absolute;
+left: 42.85%;
+right: 42.22%;
+top: 55.51%;
+bottom: 41.1%;
+
+background: #E8E8EA;
+opacity: 0.3;
+}
+.rectangle6moretoexplore{
+    position: absolute;
+width: 514px;
+height: 203px;
+left: 1440px;
+top: 2464px;
+
+background: linear-gradient(180deg, #CE9671 20.79%, rgba(206, 150, 113, 0) 100%);
+background-blend-mode: screen;
+opacity: 0.6;
+transform: rotate(-180deg);
+}
+.union{
+    position: absolute;
+width: 303px;
+height: 266px;
+left: 360px;
+top: 1468px;
+
+background: radial-gradient(57.89% 57.89% at 50% 50%, #0B0D2B 0%, rgba(11, 14, 45, 0) 100%)
+}
+
+.wavesgroup{
+    position: absolute;
+width: 514px;
+height: 352px;
+left: 926px;
+top: 1984px;
+}
+.wavesimage{
+    position: absolute;
+width: 514px;
+height: 367px;
+left: 926px;
+top: 1985px;
+
+background: url(03141558877571.jpg);
+}
+.rectangle7waves{
+    position: absolute;
+width: 514px;
+height: 352px;
+left: 926px;
+top: 1984px;
+
+background: #C4C4C4;
+}
+
+.group12{
+    position: absolute;
+width: 1154px;
+height: 266px;
+left: 143px;
+top: 3035px;
+
+opacity: 0.4;
+}
+.union4{
+    position: absolute;
+width: 303px;
+height: 266px;
+left: 143px;
+top: 3035px;
+
+background: radial-gradient(57.89% 57.89% at 50% 50%, #FFFFFF 0%, rgba(11, 14, 45, 0) 100%)
+}
+.union3{
+    position: absolute;
+width: 303px;
+height: 266px;
+left: 439px;
+top: 3035px;
+
+background: radial-gradient(57.89% 57.89% at 50% 50%, #FFFFFF 0%, rgba(11, 14, 45, 0) 100%)
+}
+.union2{
+    position: absolute;
+width: 303px;
+height: 266px;
+left: 698px;
+top: 3035px;
+
+background: radial-gradient(57.89% 57.89% at 50% 50%, #FFFFFF 0%, rgba(11, 14, 45, 0) 100%)
+}
+.union1{
+    position: absolute;
+width: 303px;
+height: 266px;
+left: 994px;
+top: 3035px;
+
+background: radial-gradient(57.89% 57.89% at 50% 50%, #FFFFFF 0%, rgba(11, 14, 45, 0) 100%)
+}
+
+.moretoexploreunion{
+    position: absolute;
+width: 303px;
+height: 266px;
+left: 111px;
+top: 2075px;
+
+background: radial-gradient(57.89% 57.89% at 50% 50%, #FFFFFF 0%, rgba(11, 14, 45, 0) 100%)
+}
+.moreexploration{
+    position: absolute;
+visibility: hidden;
+width: 205px;
+height: 94px;
+left: 261px;
+top: 1917px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 47px;
+
+color: #FEFEFE;
+}
+.moretoexplore{
+    position: absolute;
+width: 250px;
+height: 75px;
+left: 246px;
+top: 1983px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 38px;
+letter-spacing: 0.5em;
+text-transform: uppercase;
+
+color: #FEFEFE;
+}
+.etiam{
+    position: absolute;
+width: 382px;
+height: 79px;
+left: 555px;
+top: 1982px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+color: #FFFFFF;
+
+}
+
+.group7socials{
+    position: absolute;
+width: 28px;
+height: 361px;
+left: 50px;
+top: 623px;
+}
+.youtubecolor-1{
+    position: absolute;
+width: 28px;
+height: 20px;
+left: 50px;
+top: 964px;
+}
+.youtubeicon{
+    position: absolute;
+width: 28px;
+height: 20px;
+left: 50px;
+top: 964px;
+}
+.youtubecolor{
+    position: absolute;
+width: 28px;
+height: 20px;
+left: 50px;
+top: 964px;
+}
+.youtube{
+    position: absolute;
+width: 28px;
+height: 20px;
+left: 50px;
+top: 964px;
+
+background: #CCCCCC;
+}
+.facebookicon{
+    position: absolute;
+width: 15px;
+height: 28px;
+left: 57px;
+top: 901px;
+
+opacity: 0.2;
+}
+.facebookgroup{
+    position: absolute;
+width: 15px;
+height: 28px;
+left: 57px;
+top: 901px;
+}
+.facebook{
+    position: absolute;
+width: 15px;
+height: 28px;
+left: 57px;
+top: 901px;
+
+background: #000000;
+}
+.twittercolor-1{
+    position: absolute;
+width: 28px;
+height: 23px;
+left: 50px;
+top: 843px;
+
+}
+.twittericon{
+    position: absolute;
+width: 28px;
+height: 23px;
+left: 50px;
+top: 843px;
+}
+.twittercolor{
+    position: absolute;
+width: 28px;
+height: 23px;
+left: 50px;
+top: 843px;
+}
+.twitter{
+    position: absolute;
+width: 28px;
+height: 23px;
+left: 50px;
+top: 843px;
+
+background: #031CFF;
+}
+.letsconnect{
+    position: absolute;
+width: 185px;
+height: 17px;
+left: 55px;
+top: 808px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+letter-spacing: 0.5em;
+text-transform: uppercase;
+
+color: #031CFF;
+
+transform: rotate(-90deg);
+}
+
+.listgrid{
+    position: absolute;
+width: 574px;
+height: 693px;
+left: 710px;
+top: 1060px;
+}
+/*missing some list items... unsure if they are needed or not*/
+.listitem4{
+    position: absolute;
+height: 141px;
+left: 0px;
+right: 0px;
+top: 525px;
+}
+.commentslist4{
+    position: absolute;
+width: 31px;
+height: 22px;
+left: 319px;
+top: 122px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+
+color: #CFCFCF;
+}
+.iconcommentslist4{
+    position: absolute;
+width: 19px;
+height: 19px;
+left: 292px;
+top: 123px;
+}
+.vector3list4{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #9597A6;
+}
+.likeslist4{
+    position: absolute;
+width: 21px;
+height: 22px;
+left: 243px;
+top: 122px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+
+color: #CFCFCF;
+
+}
+.iconheartlist4{
+    position: absolute;
+width: 20px;
+height: 18px;
+left: 216px;
+top: 123px;
+}
+.vector2list4{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF5454;
+}
+.irelandsscenerylist4{
+    position: absolute;
+left: 216px;
+right: 6px;
+top: 36.88%;
+bottom: 17.73%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #9597A6;
+}
+.vector1list4{
+    position: absolute;
+width: 24px;
+height: 15px;
+right: 5px;
+top: 7px;
+
+background: #021CFF;
+border: 1px solid #021CFF;
+}
+.sanfransisco{
+    position: absolute;
+left: 216px;
+right: 74px;
+top: -2.84%;
+bottom: 75.18%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 34px;
+line-height: 40px;
+
+color: #0B0E2D;
+}
+.image2list4{
+    position: absolute;
+width: 180px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+background: url(image.png);
+}
+
+.listitem3{
+    position: absolute;
+height: 141px;
+left: 0px;
+right: 0px;
+top: 350px;
+}
+.commentslist3{
+    position: absolute;
+width: 11px;
+height: 22px;
+left: 319px;
+top: 122px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+
+color: #CFCFCF;
+}
+.iconcommentslist3{
+    position: absolute;
+width: 19px;
+height: 19px;
+left: 292px;
+top: 123px;
+}
+.vector3list3{
+    box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+border: 2px solid #CFCFCF;
+}
+.likeslist3{
+    position: absolute;
+width: 11px;
+height: 22px;
+left: 243px;
+top: 122px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+
+color: #CFCFCF;
+}
+.iconheartlist3{
+    position: absolute;
+width: 20px;
+height: 18px;
+left: 216px;
+top: 123px;
+}
+.vector2list3{
+    box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+border: 2px solid #CFCFCF;
+}
+.irelandsscenerylist3{
+    position: absolute;
+left: 216px;
+right: 6px;
+top: 36.88%;
+bottom: 17.73%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #9597A6;
+}
+.vector1list3{
+    position: absolute;
+width: 24px;
+height: 15px;
+right: 5px;
+top: 7px;
+
+background: #021CFF;
+border: 1px solid #021CFF;
+}
+.stonefaceisland{
+                
+    position: absolute;
+    left: 216px;
+    right: 74px;
+    top: -2.84%;
+    bottom: 75.18%;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 34px;
+    line-height: 40px;
+    
+    color: #0B0E2D;
+}
+.image2list3{
+                    position: absolute;
+    width: 180px;
+    left: 0px;
+    top: 0%;
+    bottom: 0%;
+    
+    background: url(easter), url(image.png);
+}
+
+.listitem2{
+    position: absolute;
+height: 141px;
+left: 0px;
+right: 0px;
+top: 175px;
+}
+.commentslist2{
+    position: absolute;
+width: 31px;
+height: 22px;
+left: 319px;
+top: 122px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+
+color: #CFCFCF;
+}
+.iconcommentslist2{
+    position: absolute;
+width: 19px;
+height: 19px;
+left: 292px;
+top: 123px;
+}
+.vector3list2{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #9597A6;
+}
+.likeslist2{
+    position: absolute;
+width: 21px;
+height: 22px;
+left: 243px;
+top: 122px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+
+color: #CFCFCF;
+}
+.iconheartlist2{
+    position: absolute;
+width: 20px;
+height: 18px;
+left: 216px;
+top: 123px;
+}
+.vector2list2{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF5454;
+}
+.irelandsscenerylist2{
+    position: absolute;
+left: 216px;
+right: 6px;
+top: 36.88%;
+bottom: 17.73%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #9597A6;
+}
+.vector1list2{
+    position: absolute;
+width: 24px;
+height: 15px;
+right: 5px;
+top: 7px;
+
+background: #021CFF;
+border: 1px solid #021CFF;
+}
+.norwaylegitnes{
+    position: absolute;
+left: 216px;
+right: 74px;
+top: -2.84%;
+bottom: 75.18%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 34px;
+line-height: 40px;
+
+color: #0B0E2D;
+}
+.image2list2{
+    position: absolute;
+width: 180px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+background: url(image.png);
+}
+
+.listiteml{
+    position: absolute;
+height: 141px;
+left: 0px;
+right: 0px;
+top: 0px;
+}
+.commentslist1{
+    position: absolute;
+width: 21px;
+height: 22px;
+left: 319px;
+top: 122px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+
+color: #CFCFCF;
+}
+.iconcommentslist1{
+    position: absolute;
+width: 19px;
+height: 19px;
+left: 292px;
+top: 123px;
+}
+.vector3list1{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #9597A6;
+}
+.likeslist1{
+    position: absolute;
+width: 21px;
+height: 22px;
+left: 243px;
+top: 122px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+
+color: #CFCFCF;
+
+}
+.iconheartlist1{
+                
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 216px;
+    top: 123px;
+}
+.vector2list1{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    background: #FF5454;
+}
+.irelandsscenerylist1{
+    position: absolute;
+left: 216px;
+right: 6px;
+top: 36.88%;
+bottom: 17.73%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #9597A6;
+
+}
+.vector1list1{
+    position: absolute;
+width: 24px;
+height: 15px;
+right: 5px;
+top: 7px;
+
+background: #021CFF;
+border: 1px solid #021CFF;
+}
+.cliffsofireland{
+    position: absolute;
+left: 216px;
+right: 74px;
+top: -2.84%;
+bottom: 75.18%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 34px;
+line-height: 40px;
+
+color: #0B0E2D;
+}
+.image2list1{
+    position: absolute;
+width: 180px;
+left: 0px;
+top: 0%;
+bottom: 0%;
+
+background: url(image);
+}
+
+.rectanglemoretoexplore{
+    position: absolute;
+width: 1440px;
+height: 726px;
+left: 0px;
+top: 1817px;
+
+background: #0B0E2D;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.group8rectangle{
+    position: absolute;
+width: 39.6px;
+height: 39.6px;
+left: 79px;
+top: 69.6px;
+
+transform: rotate(-90deg);
+}
+.group2rectangle{
+    position: absolute;
+width: 39.6px;
+height: 39.6px;
+left: 79px;
+top: 69.6px;
+
+transform: rotate(-90deg);
+}
+.grouprectangle{
+    position: absolute;
+width: 28px;
+height: 28px;
+left: 98.8px;
+top: 69.6px;
+
+transform: rotate(-135deg);
+}
+.rectangle5-2{
+    position: absolute;
+width: 14px;
+height: 14px;
+left: 79px;
+top: 49.8px;
+
+background: #F24F2B;
+mix-blend-mode: multiply;
+transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
+}
+.rectangle5-3{
+    position: absolute;
+width: 14px;
+height: 14px;
+left: 118.6px;
+top: 49.8px;
+
+background: #1FBCFA;
+mix-blend-mode: multiply;
+transform: matrix(-0.71, -0.71, -0.71, 0.71, 0, 0);
+}
+.rectangle5-1{
+    position: absolute;
+width: 14px;
+height: 14px;
+left: 98.8px;
+top: 30px;
+
+background: #19CF87;
+mix-blend-mode: multiply;
+transform: rotate(45deg);
+}
+.rectangle5{
+    position: absolute;
+width: 14px;
+height: 14px;
+left: 98.8px;
+top: 69.6px;
+
+background: #A159F9;
+mix-blend-mode: multiply;
+transform: rotate(-135deg);
+}
+.gofig{
+    position: absolute;
+width: 75px;
+height: 36px;
+left: 127px;
+top: 34px;
+
+font-family: 'Campton';
+font-size: 25.886px;
+line-height: 30px;
+
+color: #3D3D3D;
+}
+
+.line{
+    position: absolute;
+width: 343px;
+height: 0px;
+left: 525px;
+top: 466px;
+
+border: 2px solid #FFFFFF;
+}
+.featured{
+    position: absolute;
+width: 284px;
+height: 26px;
+left: 709px;
+top: 974px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+letter-spacing: 1em;
+text-transform: uppercase;
+
+color: #031CFF;
+}
+.rectangle6druli{
+    position: absolute;
+width: 100px;
+height: 4px;
+left: 968px;
+top: 1px;
+
+background: #031CFF;
+}
+.druli{
+    position: absolute;
+width: 398px;
+height: 17px;
+left: 855px;
+top: 44px;
+
+font-family: 'Campton';
+font-size: 12px;
+line-height: 14px;
+
+color: #3D3D3D;
+
+}
+.group6signin{
+    position: absolute;
+width: 103px;
+height: 36px;
+left: 1291px;
+top: 34px;
+}
+.signin{
+    position: absolute;
+width: 62.46px;
+height: 16.96px;
+left: 1310px;
+top: 43px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+text-align: center;
+
+color: #031CFF;
+
+border-radius: 100px;
+}
+.rectangle4-1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 103px;
+height: 36px;
+left: 1291px;
+top: 34px;
+
+border: 1px solid #031CFF;
+border-radius: 100px;
+}
+.group4watchreserve{
+    position: absolute;
+width: 523px;
+height: 54px;
+left: 341px;
+top: 526px;
+
+}
+.groupwatchvideo{
+    position: absolute;
+width: 251px;
+height: 54px;
+left: 613px;
+top: 526px;
+
+}
+.polygon{
+    position: absolute;
+width: 17px;
+height: 14px;
+left: 682px;
+top: 544px;
+
+background: #FFFFFF;
+border-radius: 1.5px;
+transform: rotate(90deg);
+}
+.watchvideo{
+    position: absolute;
+width: 119px;
+height: 22px;
+left: 703px;
+top: 542px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+border-radius: 100px;
+}
+.rectangle4watchvideo{
+    box-sizing: border-box;
+
+position: absolute;
+width: 251px;
+height: 54px;
+left: 613px;
+top: 526px;
+
+border: 3px solid #FFFFFF;
+border-radius: 100px;
+}
+.groupreservenow{
+    position: absolute;
+    width: 251px;
+    height: 54px;
+    left: 341px;
+    top: 526px;
+}
+.reservenow{
+    position: absolute;
+    width: 122px;
+    height: 22px;
+    left: 405px;
+    top: 542px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    border-radius: 100px;
+}
+.rectangle4reservenow{
+    position: absolute;
+    width: 251px;
+    height: 54px;
+    left: 341px;
+    top: 526px;
+
+    background: #031CFF;
+    border-radius: 100px;
+}
+.rectangle3-1{
+    position: absolute;
+width: 191px;
+height: 366px;
+left: 311px;
+top: 1509px;
+
+background: linear-gradient(180deg, #0B0E2D 0%, rgba(206, 150, 113, 0) 100%);
+background-blend-mode: screen;
+transform: rotate(-180deg);
+}
+.image{
+    position: absolute;
+width: 516px;
+height: 689px;
+left: 120px;
+top: 820px;
+
+background: url(image.png);
+}
+.rectangle3{
+    position: absolute;
+    width: 1360px;
+    height: 202px;
+    left: 1400px;
+    top: 715px;
+
+    background: linear-gradient(180deg, #CE9671 -0.5%, rgba(206, 150, 113, 0) 100%);
+    background-blend-mode: screen;
+    transform: rotate(-180deg);
+}
+.withfigma{
+    position: absolute;
+    width: 104px;
+    height: 22px;
+    left: 341px;
+    top: 443px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+}
+.goplaces {
+    position: absolute;
+    width: 358px;
+    height: 93px;
+    left: 341px;
+    top: 350px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 78.9191px;
+    line-height: 92px;
+
+    color: #FFFFFF;
+}
+.rectangle{
+    position: absolute;
+    width: 1360px;
+    height: 616px;
+    left: 40px;
+    top: 99px;
+
+    background: url(image.png);
+}
